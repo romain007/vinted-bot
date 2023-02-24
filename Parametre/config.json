@@ -1,6 +1,6 @@
 {
     "token": "0",
     "stop": "True",
-    "cooldown": 10,
+    "cooldown": 5,
     "suburl": {}
 }
